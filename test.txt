@@ -2,3 +2,4 @@ hello git
 second line from main + dev
 third line from dev
 line from main rebase
+line from dev rebase
