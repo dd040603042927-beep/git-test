@@ -4,3 +4,4 @@ third line from dev
 line from main rebase
 line from dev rebase
 danger test
+reset test
